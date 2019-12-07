@@ -1,0 +1,25 @@
+***********************GitHub***********************
+
+	Pagina del repositorio
+
+- https://github.com/Bernardo-ui/bestravelUltimate
+
+
+
+	Pagina de invitacion del repositorio
+
+- https://github.com/Bernardo-ui/bestravelUltimate/invitations
+
+*******************PythonAnyWhere*******************
+
+	Pagina Web
+
+- http://bernardiny.pythonanywhere.com/accounts/login/?next=/
+
+
+
+***********************Claves***********************
+
+User : setta
+
+Pass : 123456
